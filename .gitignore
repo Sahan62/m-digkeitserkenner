@@ -1,0 +1,16 @@
+# Virtuelle Umgebung
+venv/
+
+# Python Cache-Dateien
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Output-Dateien
+output.mp4
+*.log
+
+# IDEs / Editor-Files
+.vscode/
+.idea/
